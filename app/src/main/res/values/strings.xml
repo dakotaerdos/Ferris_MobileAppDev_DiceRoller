@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="rollText">You rolled a</string>
+    <string name="title">Let\'s Roll!</string>
+    <string name="rollButton">Roll</string>
+    <string-array name="diceOptions">
+        <item>Coin</item>
+        <item>4 Sided Die</item>
+        <item>6 Sided Die</item>
+        <item>8 Sided Die</item>
+        <item>10 Sided Die</item>
+        <item>12 Sided Die</item>
+        <item>20 Sided Die</item>
+        <item>100 Sided Die</item>
+    </string-array>
+</resources>
